@@ -2614,7 +2614,7 @@ article.single-post p {
 .checkout-login{}
 .login-phone{display: inline-block;}
 .login-phone:after {
-    content: '+91 - ';
+    content: '+503 - ';
     font-size: 14px;
     left: 36px;
 }
